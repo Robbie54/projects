@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/robbie/Desktop/Personal/projects/TicTacToeM/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/main.dir/main.cpp.o -c /home/robbie/Desktop/Personal/projects/TicTacToeM/main.cpp",
+  "file": "/home/robbie/Desktop/Personal/projects/TicTacToeM/main.cpp"
+},
+{
+  "directory": "/home/robbie/Desktop/Personal/projects/TicTacToeM/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/main.dir/MiniMax.cpp.o -c /home/robbie/Desktop/Personal/projects/TicTacToeM/MiniMax.cpp",
+  "file": "/home/robbie/Desktop/Personal/projects/TicTacToeM/MiniMax.cpp"
+},
+{
+  "directory": "/home/robbie/Desktop/Personal/projects/TicTacToeM/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/main.dir/TicTacToe.cpp.o -c /home/robbie/Desktop/Personal/projects/TicTacToeM/TicTacToe.cpp",
+  "file": "/home/robbie/Desktop/Personal/projects/TicTacToeM/TicTacToe.cpp"
+}
+]
